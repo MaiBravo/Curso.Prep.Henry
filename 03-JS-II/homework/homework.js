@@ -128,7 +128,6 @@ function esEntero(numero) {
   }else{
     return false;
   }
-  
   //if(Number.isInteger(numero)){
     //return true;
   //}else{
